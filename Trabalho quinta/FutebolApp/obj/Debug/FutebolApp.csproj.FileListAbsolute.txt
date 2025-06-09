@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\FutebolApp\FutebolApp\obj\Debug\FutebolApp.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\FutebolApp\FutebolApp\obj\Debug\FutebolApp.Properties.Resources.resources
+C:\Users\gabri\source\repos\FutebolApp\FutebolApp\obj\Debug\FutebolApp.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\FutebolApp\FutebolApp\obj\Debug\FutebolApp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\FutebolApp\FutebolApp\bin\Debug\FutebolApp.exe.config
+C:\Users\gabri\source\repos\FutebolApp\FutebolApp\bin\Debug\FutebolApp.exe
+C:\Users\gabri\source\repos\FutebolApp\FutebolApp\bin\Debug\FutebolApp.pdb
+C:\Users\gabri\source\repos\FutebolApp\FutebolApp\obj\Debug\FutebolApp.exe
+C:\Users\gabri\source\repos\FutebolApp\FutebolApp\obj\Debug\FutebolApp.pdb
+C:\Users\gabri\source\repos\FutebolApp\FutebolApp\obj\Debug\FutebolApp.exe.config

@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\MusicaApp\MusicaApp\obj\Debug\MusicaApp.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\MusicaApp\MusicaApp\obj\Debug\MusicaApp.Properties.Resources.resources
+C:\Users\gabri\source\repos\MusicaApp\MusicaApp\obj\Debug\MusicaApp.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\MusicaApp\MusicaApp\obj\Debug\MusicaApp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\MusicaApp\MusicaApp\bin\Debug\MusicaApp.exe.config
+C:\Users\gabri\source\repos\MusicaApp\MusicaApp\bin\Debug\MusicaApp.exe
+C:\Users\gabri\source\repos\MusicaApp\MusicaApp\bin\Debug\MusicaApp.pdb
+C:\Users\gabri\source\repos\MusicaApp\MusicaApp\obj\Debug\MusicaApp.exe
+C:\Users\gabri\source\repos\MusicaApp\MusicaApp\obj\Debug\MusicaApp.pdb
+C:\Users\gabri\source\repos\MusicaApp\MusicaApp\obj\Debug\MusicaApp.exe.config
